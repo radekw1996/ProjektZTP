@@ -158,15 +158,12 @@
                 <SolidColorBrush Color="#FF208524"/>
             </TextBox.Background>
         </TextBox>
-        <Button Content="cosx" HorizontalAlignment="Left" Height="60" Margin="270,258,0,0" VerticalAlignment="Top" Width="80" Click="operacje" FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727" BorderBrush="#FF000000"/>
-        <Button Content="tanx" HorizontalAlignment="Left" Height="60" Margin="270,323,0,0" VerticalAlignment="Top" Width="80" Click="operacje" FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727" BorderBrush="#FF000000"/>
-        <Button Content="-" HorizontalAlignment="Left" Height="60" Margin="270,388,0,0" VerticalAlignment="Top" Width="80" Click="operacje" FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727" BorderBrush="#FF000000"/>
-        <Button Content="sinx" HorizontalAlignment="Left" Height="60" Margin="270,193,0,0" VerticalAlignment="Top" Width="80" Click="zmiana_znaku" FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727">
+        <Button Content="cosx" HorizontalAlignment="Left" Height="125" Margin="270,323,0,0" VerticalAlignment="Top" Width="80" Click="cosinus" FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727" BorderBrush="#FF000000"/>
+        <Button Content="tanx" HorizontalAlignment="Left" Height="125" Margin="270,453,0,0" VerticalAlignment="Top" Width="80" Click="tangens" FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727" BorderBrush="#FF000000"/>
+        <Button Content="sinx" HorizontalAlignment="Left" Height="125" Margin="270,193,0,0" VerticalAlignment="Top" Width="80" Click="sinus" FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button Content="" HorizontalAlignment="Left" Height="60" Margin="270,453,0,0" VerticalAlignment="Top" Width="80" Click="operacje" FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727" BorderBrush="#FF000000"/>
-        <Button Content="-" HorizontalAlignment="Left" Height="60" Margin="270,518,0,0" VerticalAlignment="Top" Width="80" Click="operacje" FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727" BorderBrush="#FF000000"/>
     </Grid>
 </Page>

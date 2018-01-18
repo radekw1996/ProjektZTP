@@ -34,12 +34,13 @@ namespace Kalkulator
         private void cyfry(object sender, RoutedEventArgs e)
         {
             Button b = (Button)sender;
-            if (Convert.ToDouble(b.Content) == 0)
-                zero = true;
-            else
-                zero = false;
+            if (b.Content.ToString() != ",")
+                if (Convert.ToDouble(b.Content) == 0)
+                    zero = true;
+                else
+                    zero = false;
             double Num;
-            bool isNum = double.TryParse(Oper.Text, out Num);
+            bool isNum = double.TryParse(Oper.Text, out Num); //kasowanie komunikatow (proba konwersji)
             if (!isNum)
                 Oper.Text = "";
             if ((Convert.ToString(Display.Text) == "0") || (wprowadzona_wartosc)) //kasowanie cyfr
@@ -217,6 +218,48 @@ namespace Kalkulator
         {
 
         }
-        
+
+        private void sinus(object sender, RoutedEventArgs e)
+        {
+            Oper.Text = "Sin(" + Display.Text + ")";
+            if (wynik == 0)
+            {
+                wynik = Math.Sin(Convert.ToDouble(Display.Text));
+                Display.Text = Convert.ToString(wynik);
+            }
+            else
+            {
+                wynik = Math.Sin(wynik);
+                Display.Text = Convert.ToString(wynik);
+            }
+        }
+        private void cosinus(object sender, RoutedEventArgs e)
+        {
+            Oper.Text = "cos(" + Display.Text + ")";
+            if (wynik == 0)
+            {
+                wynik = Math.Cos(Convert.ToDouble(Display.Text));
+                Display.Text = Convert.ToString(wynik);
+            }
+            else
+            {
+                wynik = Math.Cos(wynik);
+                Display.Text = Convert.ToString(wynik);
+            }
+        }
+        private void tangens(object sender, RoutedEventArgs e)
+        {
+            Oper.Text = "tg(" + Display.Text + ")";
+            if (wynik == 0)
+            {
+                wynik = Math.Tan(Convert.ToDouble(Display.Text));
+                Display.Text = Convert.ToString(wynik);
+            }
+            else
+            {
+                wynik = Math.Tan(wynik);
+                Display.Text = Convert.ToString(wynik);
+            }
+        }
     }
 }

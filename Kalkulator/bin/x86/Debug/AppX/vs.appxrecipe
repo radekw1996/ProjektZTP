@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>2129ea1c-db18-45f8-bd31-016ca8bca5a7</PackageIdentityName>
     <PackageIdentityPublisher>CN=Radek</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Radek\source\repos\Kalkulator\Kalkulator\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\ProjektZTP\Kalkulator\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Radek\source\repos\Kalkulator\Kalkulator\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\ProjektZTP\Kalkulator\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>64477EDC5F8445BB978FF252EDDC2C2BF9B640092099AD925EB7F704CCFEAA56</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>2129ea1c-db18-45f8-bd31-016ca8bca5a7_1.0.0.0_x86__a6cdc3k3rbh8e</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>2129ea1c-db18-45f8-bd31-016ca8bca5a7_a6cdc3k3rbh8e!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\ProjektZTP\Kalkulator\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-18T16:41:24.996</Modified>
+      <Modified>2018-01-18T18:40:40.150</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\bin\x86\Debug\Kalkulator.exe">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\bin\x86\Debug\Kalkulator.exe">
       <PackagePath>entrypoint\Kalkulator.exe</PackagePath>
-      <Modified>2018-01-18T16:41:24.459</Modified>
+      <Modified>2018-01-18T18:40:39.348</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Radek\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -495,45 +495,45 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T21:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-01-17T15:32:07.746</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-01-02T14:36:24.734</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-02T14:36:24.734</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-02T14:36:24.734</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-02T14:36:24.734</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-02T14:36:24.734</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-02T14:36:24.734</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-02T14:36:24.734</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\bin\x86\Debug\Kalkulator.xr.xml">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\bin\x86\Debug\Kalkulator.xr.xml">
       <PackagePath>Kalkulator.xr.xml</PackagePath>
       <Modified>2018-01-18T16:21:47.812</Modified>
     </AppxPackagedFile>
@@ -541,14 +541,14 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-01-13T15:57:39.122</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-18T16:33:29.539</Modified>
+      <Modified>2018-01-18T18:35:35.213</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\bin\x86\Debug\Core\Kalkulator.exe">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\bin\x86\Debug\Core\Kalkulator.exe">
       <PackagePath>Kalkulator.exe</PackagePath>
-      <Modified>2018-01-18T16:41:24.990</Modified>
+      <Modified>2018-01-18T18:40:40.137</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

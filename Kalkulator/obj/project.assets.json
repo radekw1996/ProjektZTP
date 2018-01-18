@@ -25735,11 +25735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Radek\\source\\repos\\Kalkulator\\Kalkulator\\Kalkulator.csproj",
+      "projectUniqueName": "C:\\ProjektZTP\\Kalkulator\\Kalkulator.csproj",
       "projectName": "Kalkulator",
-      "projectPath": "C:\\Users\\Radek\\source\\repos\\Kalkulator\\Kalkulator\\Kalkulator.csproj",
+      "projectPath": "C:\\ProjektZTP\\Kalkulator\\Kalkulator.csproj",
       "packagesPath": "C:\\Users\\Radek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Radek\\source\\repos\\Kalkulator\\Kalkulator\\obj\\",
+      "outputPath": "C:\\ProjektZTP\\Kalkulator\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

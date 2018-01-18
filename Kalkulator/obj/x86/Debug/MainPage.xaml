@@ -9,37 +9,37 @@
 
     <Grid Background="Gray">
 
-        <Button x:ConnectionId='1' Content="Ö" HorizontalAlignment="Left" Height="60" Margin="53,190,0,0" VerticalAlignment="Top" Width="60"                     FontFamily="Symbol" FontSize="24" Background="#FFD30000">
+        <Button x:ConnectionId='1' Content="Ö" HorizontalAlignment="Left" Height="60" Margin="10,193,0,0" VerticalAlignment="Top" Width="60"                     FontFamily="Symbol" FontSize="24" Background="#FFD30000">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='2' Content="x²" HorizontalAlignment="Left" Height="60" Margin="118,190,0,0" VerticalAlignment="Top" Width="60"                 FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="#FFD30000">
+        <Button x:ConnectionId='2' Content="x²" HorizontalAlignment="Left" Height="60" Margin="75,193,0,0" VerticalAlignment="Top" Width="60"                 FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="#FFD30000">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='3' Content="1/X" HorizontalAlignment="Left" Height="60" Margin="183,190,0,0" VerticalAlignment="Top" Width="60"                FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="#FFD30000">
+        <Button x:ConnectionId='3' Content="1/X" HorizontalAlignment="Left" Height="60" Margin="140,193,0,0" VerticalAlignment="Top" Width="60"                FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="#FFD30000">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='4' Content="CE" HorizontalAlignment="Left" Height="60" Margin="53,255,0,0" VerticalAlignment="Top" Width="60"            FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="#FFD30000">
+        <Button x:ConnectionId='4' Content="CE" HorizontalAlignment="Left" Height="60" Margin="10,258,0,0" VerticalAlignment="Top" Width="60"            FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="#FFD30000">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='5' Content="C" HorizontalAlignment="Left" Height="60" Margin="118,255,0,0" VerticalAlignment="Top" Width="60"           FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="#FFD30000">
+        <Button x:ConnectionId='5' Content="C" HorizontalAlignment="Left" Height="60" Margin="75,258,0,0" VerticalAlignment="Top" Width="60"           FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="#FFD30000">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='6' Content="" HorizontalAlignment="Left" Height="60" Margin="183,255,0,0" VerticalAlignment="Top" Width="60"                   FontFamily="HoloLens MDL2 Assets" FontSize="24" Background="#FFD30000">
+        <Button x:ConnectionId='6' Content="" HorizontalAlignment="Left" Height="60" Margin="140,258,0,0" VerticalAlignment="Top" Width="60"                   FontFamily="HoloLens MDL2 Assets" FontSize="24" Background="#FFD30000">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='7' Content="/" HorizontalAlignment="Left" Height="60" Margin="248,255,0,0" VerticalAlignment="Top" Width="60"                  FontFamily="Symbol" FontSize="36" FontWeight="Bold" Foreground="White">
+        <Button x:ConnectionId='7' Content="/" HorizontalAlignment="Left" Height="60" Margin="205,258,0,0" VerticalAlignment="Top" Width="60"                  FontFamily="Symbol" FontSize="36" FontWeight="Bold" Foreground="White">
             <Button.Background>
                 <SolidColorBrush Color="#FF272727"/>
             </Button.Background>
@@ -47,22 +47,22 @@
                 <SolidColorBrush Color="#FF000000"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='8' Content="7" HorizontalAlignment="Left" Height="60" Margin="53,320,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
+        <Button x:ConnectionId='8' Content="7" HorizontalAlignment="Left" Height="60" Margin="10,323,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='9' Content="8" HorizontalAlignment="Left" Height="60" Margin="118,320,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
+        <Button x:ConnectionId='9' Content="8" HorizontalAlignment="Left" Height="60" Margin="75,323,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='10' Content="9" HorizontalAlignment="Left" Height="60" Margin="183,320,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
+        <Button x:ConnectionId='10' Content="9" HorizontalAlignment="Left" Height="60" Margin="140,323,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='11' Content="X" HorizontalAlignment="Left" Height="60" Margin="248,320,0,0" VerticalAlignment="Top" Width="60"                  FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White">
+        <Button x:ConnectionId='11' Content="X" HorizontalAlignment="Left" Height="60" Margin="205,323,0,0" VerticalAlignment="Top" Width="60"                  FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White">
             <Button.Background>
                 <SolidColorBrush Color="#FF272727"/>
             </Button.Background>
@@ -70,22 +70,22 @@
                 <SolidColorBrush Color="#FF000000"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='12' Content="4" HorizontalAlignment="Left" Height="60" Margin="53,385,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
+        <Button x:ConnectionId='12' Content="4" HorizontalAlignment="Left" Height="60" Margin="10,388,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='13' Content="5" HorizontalAlignment="Left" Height="60" Margin="118,385,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
+        <Button x:ConnectionId='13' Content="5" HorizontalAlignment="Left" Height="60" Margin="75,388,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='14' Content="6" HorizontalAlignment="Left" Height="60" Margin="183,385,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
+        <Button x:ConnectionId='14' Content="6" HorizontalAlignment="Left" Height="60" Margin="140,388,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='15' Content="-" HorizontalAlignment="Left" Height="60" Margin="248,385,0,0" VerticalAlignment="Top" Width="60"                  FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White">
+        <Button x:ConnectionId='15' Content="-" HorizontalAlignment="Left" Height="60" Margin="205,388,0,0" VerticalAlignment="Top" Width="60"                  FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White">
             <Button.Background>
                 <SolidColorBrush Color="#FF272727"/>
             </Button.Background>
@@ -93,22 +93,22 @@
                 <SolidColorBrush Color="#FF000000"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='16' Content="1" HorizontalAlignment="Left" Height="60" Margin="53,450,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
+        <Button x:ConnectionId='16' Content="1" HorizontalAlignment="Left" Height="60" Margin="10,453,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='17' Content="2" HorizontalAlignment="Left" Height="60" Margin="118,450,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
+        <Button x:ConnectionId='17' Content="2" HorizontalAlignment="Left" Height="60" Margin="75,453,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='18' Content="3" HorizontalAlignment="Left" Height="60" Margin="183,450,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
+        <Button x:ConnectionId='18' Content="3" HorizontalAlignment="Left" Height="60" Margin="140,453,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='19' Content="+" HorizontalAlignment="Left" Height="125" Margin="248,450,0,0" VerticalAlignment="Top" Width="60"                  FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White">
+        <Button x:ConnectionId='19' Content="+" HorizontalAlignment="Left" Height="125" Margin="205,453,0,0" VerticalAlignment="Top" Width="60"                  FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White">
             <Button.Background>
                 <SolidColorBrush Color="#FF272727"/>
             </Button.Background>
@@ -116,7 +116,7 @@
                 <SolidColorBrush Color="#FF000000"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='20' Content="±" HorizontalAlignment="Left" Height="60" Margin="248,190,0,0" VerticalAlignment="Top" Width="60"                      FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White">
+        <Button x:ConnectionId='20' Content="±" HorizontalAlignment="Left" Height="60" Margin="205,193,0,0" VerticalAlignment="Top" Width="60"                      FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White">
             <Button.Background>
                 <SolidColorBrush Color="#FF272727"/>
             </Button.Background>
@@ -124,17 +124,17 @@
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='21' Content="0" HorizontalAlignment="Left" Height="60" Margin="53,515,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
+        <Button x:ConnectionId='21' Content="0" HorizontalAlignment="Left" Height="60" Margin="10,518,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='22' Content="," HorizontalAlignment="Left" Height="60" Margin="118,515,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
+        <Button x:ConnectionId='22' Content="," HorizontalAlignment="Left" Height="60" Margin="75,518,0,0" VerticalAlignment="Top" Width="60"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Background="White">
             <Button.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.BorderBrush>
         </Button>
-        <Button x:ConnectionId='23' x:Name="rown" Content="=" HorizontalAlignment="Left" Height="60" Margin="183,515,0,0" VerticalAlignment="Top" Width="60"                 FontFamily="NSimSun" FontSize="24" RenderTransformOrigin="0.506,0.501" FontWeight="Bold" Background="White">
+        <Button x:ConnectionId='23' x:Name="rown" Content="=" HorizontalAlignment="Left" Height="60" Margin="140,518,0,0" VerticalAlignment="Top" Width="60"                 FontFamily="NSimSun" FontSize="24" RenderTransformOrigin="0.506,0.501" FontWeight="Bold" Background="White">
             <Button.Foreground>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </Button.Foreground>
@@ -142,7 +142,7 @@
                 <SolidColorBrush Color="#FF000000"/>
             </Button.BorderBrush>
         </Button>
-        <TextBox x:ConnectionId='24' x:Name="Display" HorizontalAlignment="Left" Height="64" Margin="53,114,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="255"                                   FontSize="48" TextAlignment="Right" FontFamily="Consolas">
+        <TextBox x:ConnectionId='24' x:Name="Display" HorizontalAlignment="Left" Height="64" Margin="10,117,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="340"                                   FontSize="48" TextAlignment="Right" FontFamily="Consolas">
             <TextBox.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </TextBox.BorderBrush>
@@ -150,7 +150,7 @@
                 <SolidColorBrush Color="#FF208524"/>
             </TextBox.Background>
         </TextBox>
-        <TextBox x:ConnectionId='25' x:Name="Oper" HorizontalAlignment="Left" Height="33" Margin="53,76,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="255"                                TextAlignment="Right" FontFamily="Consolas" FontSize="22">
+        <TextBox x:ConnectionId='25' x:Name="Oper" HorizontalAlignment="Left" Height="33" Margin="10,79,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="340"                                TextAlignment="Right" FontFamily="Consolas" FontSize="22">
             <TextBox.BorderBrush>
                 <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
             </TextBox.BorderBrush>
@@ -158,6 +158,16 @@
                 <SolidColorBrush Color="#FF208524"/>
             </TextBox.Background>
         </TextBox>
+        <Button x:ConnectionId='26' Content="cosx" HorizontalAlignment="Left" Height="60" Margin="270,258,0,0" VerticalAlignment="Top" Width="80"                 FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727" BorderBrush="#FF000000"/>
+        <Button x:ConnectionId='27' Content="tanx" HorizontalAlignment="Left" Height="60" Margin="270,323,0,0" VerticalAlignment="Top" Width="80"                 FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727" BorderBrush="#FF000000"/>
+        <Button x:ConnectionId='28' Content="-" HorizontalAlignment="Left" Height="60" Margin="270,388,0,0" VerticalAlignment="Top" Width="80"                  FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727" BorderBrush="#FF000000"/>
+        <Button x:ConnectionId='29' Content="sinx" HorizontalAlignment="Left" Height="60" Margin="270,193,0,0" VerticalAlignment="Top" Width="80"               FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727">
+            <Button.BorderBrush>
+                <SolidColorBrush Color="{ThemeResource SystemBaseHighColor}"/>
+            </Button.BorderBrush>
+        </Button>
+        <Button x:ConnectionId='30' Content="" HorizontalAlignment="Left" Height="60" Margin="270,453,0,0" VerticalAlignment="Top" Width="80"                  FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727" BorderBrush="#FF000000"/>
+        <Button x:ConnectionId='31' Content="-" HorizontalAlignment="Left" Height="60" Margin="270,518,0,0" VerticalAlignment="Top" Width="80"                  FontFamily="NSimSun" FontSize="24" FontWeight="Bold" Foreground="White" Background="#FF272727" BorderBrush="#FF000000"/>
     </Grid>
 </Page>
 

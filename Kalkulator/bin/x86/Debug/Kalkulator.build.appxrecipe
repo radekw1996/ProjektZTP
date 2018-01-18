@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>2129ea1c-db18-45f8-bd31-016ca8bca5a7</PackageIdentityName>
     <PackageIdentityPublisher>CN=Radek</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Radek\source\repos\Kalkulator\Kalkulator\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\ProjektZTP\Kalkulator\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Radek\source\repos\Kalkulator\Kalkulator\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\ProjektZTP\Kalkulator\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\ProjektZTP\Kalkulator\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\bin\x86\Debug\Kalkulator.exe">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\bin\x86\Debug\Kalkulator.exe">
       <PackagePath>entrypoint\Kalkulator.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Radek\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -370,47 +370,47 @@
     <AppxPackagedFile Include="C:\Users\Radek\.nuget\packages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\bin\x86\Debug\Kalkulator.xr.xml">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\bin\x86\Debug\Kalkulator.xr.xml">
       <PackagePath>Kalkulator.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Radek\source\repos\Kalkulator\Kalkulator\bin\x86\Debug\Core\Kalkulator.exe">
+    <AppxPackagedFile Include="C:\ProjektZTP\Kalkulator\bin\x86\Debug\Core\Kalkulator.exe">
       <PackagePath>Kalkulator.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
